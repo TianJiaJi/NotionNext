@@ -1,7 +1,5 @@
-// 这里编写自定义js脚本；将被静态引入到页面中
-
 // live2d_path 参数建议使用绝对路径
-const live2d_path = "/js/live2d-widget/";
+const live2d_path = "./";
 //const live2d_path = "/live2d-widget/";
 
 // 封装异步加载资源的方法
