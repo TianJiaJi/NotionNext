@@ -1,0 +1,47 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4984472 */
+  src: url('iconfont.woff2?t=1753454608912') format('woff2'),
+       url('iconfont.woff?t=1753454608912') format('woff'),
+       url('iconfont.ttf?t=1753454608912') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-tv:before {
+  content: "\e639";
+}
+
+.icon-dianying:before {
+  content: "\e627";
+}
+
+.icon-tv1:before {
+  content: "\e61e";
+}
+
+.icon--dianyingpiao-:before {
+  content: "\e601";
+}
+
+.icon-dianshi:before {
+  content: "\e622";
+}
+
+.icon-jurassic_toolkit:before {
+  content: "\e6a3";
+}
+
+.icon-dianying1:before {
+  content: "\e625";
+}
+
+.icon-dianshiji:before {
+  content: "\e626";
+}
+
