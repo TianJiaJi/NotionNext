@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4984472 */
-  src: url('iconfont.woff2?t=1753517585084') format('woff2'),
-       url('iconfont.woff?t=1753517585084') format('woff'),
-       url('iconfont.ttf?t=1753517585084') format('truetype');
+  src: url('iconfont.woff2?t=1753518869898') format('woff2'),
+       url('iconfont.woff?t=1753518869898') format('woff'),
+       url('iconfont.ttf?t=1753518869898') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,82 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-yanzhengyanzhengma:before {
+  content: "\e624";
+}
+
+.icon-yiyanzheng:before {
+  content: "\e62c";
+}
+
+.icon-yanzheng:before {
+  content: "\e61b";
+}
+
+.icon-dns:before {
+  content: "\e706";
+}
+
+.icon-dns1:before {
+  content: "\eb23";
+}
+
+.icon-dns2:before {
+  content: "\e7ca";
+}
+
+.icon-shouye:before {
+  content: "\e63c";
+}
+
+.icon-buywebhostingstep1dns:before {
+  content: "\e697";
+}
+
+.icon-IP:before {
+  content: "\e632";
+}
+
+.icon-DNS:before {
+  content: "\e609";
+}
+
+.icon-dnsyunjiexi:before {
+  content: "\e730";
+}
+
+.icon-dizhi:before {
+  content: "\e606";
+}
+
+.icon-ip:before {
+  content: "\e67d";
+}
+
+.icon-dizhi1:before {
+  content: "\e623";
+}
+
+.icon-ip1:before {
+  content: "\e6e8";
+}
+
+.icon-dizhi2:before {
+  content: "\e60b";
+}
+
+.icon-dizhi3:before {
+  content: "\ec45";
+}
+
+.icon-a-wangluoshezhiwangluopeizhi:before {
+  content: "\e7c3";
+}
+
+.icon-a-flexibleconfigurationdns:before {
+  content: "\e858";
 }
 
 .icon-AI:before {

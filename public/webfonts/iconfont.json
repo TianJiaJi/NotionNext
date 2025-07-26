@@ -6,6 +6,139 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "553324",
+      "name": "验证 验证码",
+      "font_class": "yanzhengyanzhengma",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    },
+    {
+      "icon_id": "6999234",
+      "name": "已验证",
+      "font_class": "yiyanzheng",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "15391346",
+      "name": "验证",
+      "font_class": "yanzheng",
+      "unicode": "e61b",
+      "unicode_decimal": 58907
+    },
+    {
+      "icon_id": "141609",
+      "name": "dns",
+      "font_class": "dns",
+      "unicode": "e706",
+      "unicode_decimal": 59142
+    },
+    {
+      "icon_id": "490058",
+      "name": "dns",
+      "font_class": "dns1",
+      "unicode": "eb23",
+      "unicode_decimal": 60195
+    },
+    {
+      "icon_id": "702287",
+      "name": "dns",
+      "font_class": "dns2",
+      "unicode": "e7ca",
+      "unicode_decimal": 59338
+    },
+    {
+      "icon_id": "765849",
+      "name": "地址",
+      "font_class": "shouye",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "1169856",
+      "name": "buy-webhosting-step1-dns",
+      "font_class": "buywebhostingstep1dns",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "1305097",
+      "name": "IP",
+      "font_class": "IP",
+      "unicode": "e632",
+      "unicode_decimal": 58930
+    },
+    {
+      "icon_id": "1677611",
+      "name": "DNS",
+      "font_class": "DNS",
+      "unicode": "e609",
+      "unicode_decimal": 58889
+    },
+    {
+      "icon_id": "2057664",
+      "name": "dns云解析",
+      "font_class": "dnsyunjiexi",
+      "unicode": "e730",
+      "unicode_decimal": 59184
+    },
+    {
+      "icon_id": "6682541",
+      "name": "地址",
+      "font_class": "dizhi",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "7530859",
+      "name": "ip",
+      "font_class": "ip",
+      "unicode": "e67d",
+      "unicode_decimal": 59005
+    },
+    {
+      "icon_id": "12503720",
+      "name": "地址",
+      "font_class": "dizhi1",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "22273628",
+      "name": "ip",
+      "font_class": "ip1",
+      "unicode": "e6e8",
+      "unicode_decimal": 59112
+    },
+    {
+      "icon_id": "23191147",
+      "name": "地址",
+      "font_class": "dizhi2",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "23949378",
+      "name": "地址",
+      "font_class": "dizhi3",
+      "unicode": "ec45",
+      "unicode_decimal": 60485
+    },
+    {
+      "icon_id": "39694283",
+      "name": "网络配置",
+      "font_class": "a-wangluoshezhiwangluopeizhi",
+      "unicode": "e7c3",
+      "unicode_decimal": 59331
+    },
+    {
+      "icon_id": "39809396",
+      "name": "灵活配置DNS",
+      "font_class": "a-flexibleconfigurationdns",
+      "unicode": "e858",
+      "unicode_decimal": 59480
+    },
+    {
       "icon_id": "3837825",
       "name": "AI",
       "font_class": "AI",
