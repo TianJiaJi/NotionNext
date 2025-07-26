@@ -6,6 +6,97 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "2923024",
+      "name": "终端",
+      "font_class": "zhongduan",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "4463761",
+      "name": "租客端",
+      "font_class": "zhongduan1",
+      "unicode": "e76f",
+      "unicode_decimal": 59247
+    },
+    {
+      "icon_id": "8039333",
+      "name": "终端",
+      "font_class": "zhongduan2",
+      "unicode": "e666",
+      "unicode_decimal": 58982
+    },
+    {
+      "icon_id": "8206788",
+      "name": "终端",
+      "font_class": "zd",
+      "unicode": "e75e",
+      "unicode_decimal": 59230
+    },
+    {
+      "icon_id": "10573430",
+      "name": "终端",
+      "font_class": "zhongduan3",
+      "unicode": "e86e",
+      "unicode_decimal": 59502
+    },
+    {
+      "icon_id": "11556701",
+      "name": "终端管理备份",
+      "font_class": "zhongduanguanlibeifen",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "14095348",
+      "name": "终端",
+      "font_class": "zhongduan4",
+      "unicode": "e798",
+      "unicode_decimal": 59288
+    },
+    {
+      "icon_id": "32855506",
+      "name": "终端管理-终端组-终端组列表",
+      "font_class": "zhongduanguanli-zhongduanzu-zhongduanzuliebiao",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
+      "icon_id": "42197667",
+      "name": "terminal-box-line",
+      "font_class": "terminal-box-line",
+      "unicode": "e776",
+      "unicode_decimal": 59254
+    },
+    {
+      "icon_id": "42197670",
+      "name": "terminal-box-fill",
+      "font_class": "terminal-box-fill",
+      "unicode": "e777",
+      "unicode_decimal": 59255
+    },
+    {
+      "icon_id": "42197680",
+      "name": "terminal-fill",
+      "font_class": "terminal-fill",
+      "unicode": "e778",
+      "unicode_decimal": 59256
+    },
+    {
+      "icon_id": "43162524",
+      "name": "terminal",
+      "font_class": "zhongduanguanli-zhongduanzu-zhongduanzuliebiao1",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "43712222",
+      "name": "终端",
+      "font_class": "zhongduan5",
+      "unicode": "e7f4",
+      "unicode_decimal": 59380
+    },
+    {
       "icon_id": "448722",
       "name": "tv",
       "font_class": "tv",

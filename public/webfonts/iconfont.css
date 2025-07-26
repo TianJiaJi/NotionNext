@@ -1,8 +1,8 @@
 @font-face {
   font-family: "iconfont"; /* Project id 4984472 */
-  src: url('iconfont.woff2?t=1753454608912') format('woff2'),
-       url('iconfont.woff?t=1753454608912') format('woff'),
-       url('iconfont.ttf?t=1753454608912') format('truetype');
+  src: url('iconfont.woff2?t=1753455539281') format('woff2'),
+       url('iconfont.woff?t=1753455539281') format('woff'),
+       url('iconfont.ttf?t=1753455539281') format('truetype');
 }
 
 .iconfont {
@@ -11,6 +11,58 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-zhongduan:before {
+  content: "\e642";
+}
+
+.icon-zhongduan1:before {
+  content: "\e76f";
+}
+
+.icon-zhongduan2:before {
+  content: "\e666";
+}
+
+.icon-zd:before {
+  content: "\e75e";
+}
+
+.icon-zhongduan3:before {
+  content: "\e86e";
+}
+
+.icon-zhongduanguanlibeifen:before {
+  content: "\e616";
+}
+
+.icon-zhongduan4:before {
+  content: "\e798";
+}
+
+.icon-zhongduanguanli-zhongduanzu-zhongduanzuliebiao:before {
+  content: "\e62b";
+}
+
+.icon-terminal-box-line:before {
+  content: "\e776";
+}
+
+.icon-terminal-box-fill:before {
+  content: "\e777";
+}
+
+.icon-terminal-fill:before {
+  content: "\e778";
+}
+
+.icon-zhongduanguanli-zhongduanzu-zhongduanzuliebiao1:before {
+  content: "\e690";
+}
+
+.icon-zhongduan5:before {
+  content: "\e7f4";
 }
 
 .icon-tv:before {
