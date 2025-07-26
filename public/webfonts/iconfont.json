@@ -6,6 +6,69 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "3837825",
+      "name": "AI",
+      "font_class": "AI",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "5961321",
+      "name": "AI",
+      "font_class": "wuguan",
+      "unicode": "ec5f",
+      "unicode_decimal": 60511
+    },
+    {
+      "icon_id": "10885304",
+      "name": "转换",
+      "font_class": "zhuanhuan",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "12601019",
+      "name": "ai",
+      "font_class": "ai",
+      "unicode": "e68a",
+      "unicode_decimal": 59018
+    },
+    {
+      "icon_id": "18610490",
+      "name": "数据转换",
+      "font_class": "shujuzhuanhuan",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "25495485",
+      "name": "格式转换-选中",
+      "font_class": "geshizhuanhuan-xuanzhong",
+      "unicode": "e75a",
+      "unicode_decimal": 59226
+    },
+    {
+      "icon_id": "27402504",
+      "name": "左右箭头",
+      "font_class": "zuoyoujiantou",
+      "unicode": "ee31",
+      "unicode_decimal": 60977
+    },
+    {
+      "icon_id": "27577805",
+      "name": "转换",
+      "font_class": "zhuanhuan1",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "34180732",
+      "name": "转换",
+      "font_class": "zhuanhuan2",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
       "icon_id": "2923024",
       "name": "终端",
       "font_class": "zhongduan",
